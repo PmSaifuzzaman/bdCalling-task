@@ -12,7 +12,7 @@ const Banner = () => {
                     <div className="grid-cols-1 space-y-4 lg:flex lg:items-center lg:justify-between mb-5">
                         <div className="flex gap-4">
                             <button className="btn font-medium bg-[#EBF0F5]"> <input type="radio" name="radio-1" className="radio" /> One way</button>
-                            <button className="btn  font-medium bg-[#006CE4] text-white"> <input type="radio" name="radio-1" className="radio " checked /> Round Trip</button>
+                            <button className="btn  font-medium bg-[#006CE4] text-white"> <input type="radio" name="radio-9" className="radio" disabled checked /> Round Trip</button>
                         </div>
                         <div className="flex gap-4">
                             <select className="select  text-[#006CE4] bg-[#EBF0F5] font-medium">
