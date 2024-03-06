@@ -23,7 +23,7 @@ const Banner = () => {
                             </select>
                         </div>
                     </div>
-                    <div className="flex items-center gap-4 mx-auto">
+                    <div className="flex items-center justify-between">
                         <div className="grid gap-4 grid-cols-2 md:grid-cols-2 lg:grid-cols-4">
                             <div className="text-[#09182E] flex gap-2 items-center border rounded-lg p-2">
                                 <h3 className="font-semibold">DAC</h3>
@@ -47,7 +47,7 @@ const Banner = () => {
                             </div>
                         </div>
                         <div>
-                            <button className="flex justify-center items-center w-20 h-14 bg-[#FFB700] rounded-lg text-white text-lg"><FaSearch /></button>
+                            <button className="flex justify-center items-center w-20 h-14 bg-[#FFB700] rounded-lg text-white text-lg ml-2"><FaSearch /></button>
                         </div>
                     </div>
 
