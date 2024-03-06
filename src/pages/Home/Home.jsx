@@ -3,6 +3,7 @@ import Banner from "../../components/Banner/Banner";
 import Deals from "../../components/Deals/Deals";
 import Featured from "../../components/Featured/Featured";
 import Navbar from "../../components/Navbar/Navbar";
+import Testimonial from "../../components/Testimonial/Testimonial";
 
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
             <Featured></Featured>
             <Deals></Deals>
             <Airlines></Airlines>
+            <Testimonial></Testimonial>
         </div>
     );
 };
