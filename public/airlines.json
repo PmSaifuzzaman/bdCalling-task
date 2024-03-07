@@ -1,62 +1,75 @@
 [
-    {
-      "img": "https://example.com/image1.jpg",
-      "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "rating": 4.8
-    },
-    {
-      "img": "https://example.com/image2.jpg",
-      "title": "The Shawshank Redemption",
-      "rating": 4.9
-    },
-    {
-      "img": "https://example.com/image3.jpg",
-      "title": "The Godfather",
-      "rating": 4.9
-    },
-    {
-      "img": "https://example.com/image4.jpg",
-      "title": "The Dark Knight",
-      "rating": 4.8
-    },
-    {
-      "img": "https://example.com/image5.jpg",
-      "title": "Schindler's List",
-      "rating": 4.9
-    },
-    {
-      "img": "https://example.com/image6.jpg",
-      "title": "12 Angry Men",
-      "rating": 4.7
-    },
-    {
-      "img": "https://example.com/image7.jpg",
-      "title": "The Pulp Fiction",
-      "rating": 4.8
-    },
-    {
-      "img": "https://example.com/image8.jpg",
-      "title": "The Lord of the Rings: The Return of the King",
-      "rating": 4.9
-    },
-    {
-      "img": "https://example.com/image9.jpg",
-      "title": "Fight Club",
-      "rating": 4.8
-    },
-    {
-      "img": "https://example.com/image10.jpg",
-      "title": "Whiplash",
-      "rating": 4.8
-    },
-    {
-      "img": "https://example.com/image11.jpg",
-      "title": "Inception",
-      "rating": 4.8
-    },
-    {
-      "img": "https://example.com/image12.jpg",
-      "title": "Good Will Hunting",
-      "rating": 4.8
-    }
-  ]
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/YctWFkX/american.png",
+    "rating": " 5 ( 753 review )" ,
+    "title": "American Airlines"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/vj1dZ4p/BBA.png",
+    "rating": " 5 ( 753 review )" ,
+    "title": "Biman Bangladesh Airlines"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/pP1H5Kn/Emirates.png",
+    "rating":" 5 ( 753 review )"  ,
+    "title": "Emirates Airlines"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/4T7MTnB/Malaysia.png",
+    "rating": " 5 ( 753 review )" ,
+    "title": "Malaysia Airlines"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/4T7MTnB/Malaysia.png",
+    "rating": " 5 ( 753 review )" ,
+    "title": "Malaysia Airlines"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/84dwJk8/Singapore-Airlines.png",
+    "rating": " 5 ( 753 review )" ,
+    "title": "Singapore Airlines"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/BZnmscs/Turkish-Airlines.png",
+    "rating": " 5 ( 753 review )" ,
+    "title": "Turkish Airlines"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/YctWFkX/american.png",
+    "rating": " 5 ( 753 review )" ,
+    "title": "American Airlines"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/vj1dZ4p/BBA.png",
+    "rating": " 5 ( 753 review )" ,
+    "title": "BBA Airlines"
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/pP1H5Kn/Emirates.png",
+    "rating": " 5 ( 753 review )" ,
+    "title": "Emirates Airlines"
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/4T7MTnB/Malaysia.png",
+    "rating": " 5 ( 753 review )" ,
+    "title": "Malaysia Airlines"
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/84dwJk8/Singapore-Airlines.png",
+    "rating": " 5 ( 753 review )" ,
+    "title": "Singapore Airlines"
+  }
+
+]
