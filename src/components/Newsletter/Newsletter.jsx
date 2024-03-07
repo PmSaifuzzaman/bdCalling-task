@@ -2,7 +2,7 @@ import img1 from "../../assets/Resources/News letter/Isolation_Mode.png"
 
 const Newsletter = () => {
     return (
-        <div className="mt-10 lg:max-w-6xl lg:mx-auto p-2">
+        <div className="my-10 lg:max-w-6xl lg:mx-auto p-2">
 
             <div className="grid-cols-1 lg:flex lg:justify-around lg:items-center">
                 <div>

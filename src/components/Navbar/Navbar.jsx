@@ -2,7 +2,7 @@ import logo from "../../assets/Resources/Logo/LOGO.png"
 
 const Navbar = () => {
     return (
-        <div className="navbar bg-white">
+        <div className="navbar bg-white max-w-7xl mx-auto lg:bg-opacity-70 lg:absolute lg:top-0 lg:left-0 lg:right-0 lg:z-10">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -15,7 +15,7 @@ const Navbar = () => {
                         <li>About</li>
                     </ul>
                 </div>
-                <div className="flex items-center pl-12">
+                <div className="flex items-center lg:pl-20">
                     <img src={logo} alt="" />
                 </div>
             </div>
@@ -27,7 +27,7 @@ const Navbar = () => {
                     <li>About</li>
                 </ul>
             </div>
-            <div className="navbar-end pr-12">
+            <div className="navbar-end lg:mr-20">
                 <a className="btn bg-gradient-to-r from-[#006CE4] to-[#006CE4] text-white rounded-lg px-7 py-1.5">Sign in</a>
             </div>
         </div>
