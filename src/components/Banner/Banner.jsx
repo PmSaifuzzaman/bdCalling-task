@@ -23,17 +23,17 @@ const Banner = () => {
                             </select>
                         </div>
                     </div>
-                    <div className="flex items-center justify-between">
-                        <div className="grid gap-4 grid-cols-2 md:grid-cols-2 lg:grid-cols-4">
+                    <div >
+                        <div className="grid gap-5 grid-cols-2 md:grid-cols-2 lg:grid-cols-5 items-center">
                             <div className="text-[#09182E] flex gap-2 items-center border rounded-lg p-2">
                                 <h3 className="font-semibold">DAC</h3>
                                 |
-                                <p className="font-semibold">Dhaka <br /> <span className="text-xs">Hazrat Shahjalal Internatio</span></p>
+                                <p className="font-semibold">Dhaka <br /> <span className="text-xs">Hazrat Shahjalal </span></p>
                             </div>
                             <div className="text-[#09182E] flex gap-2 items-center border rounded-lg p-2">
                                 <h3 className="font-semibold">Cxb</h3>
                                 |
-                                <p className="font-semibold">Cox’s Bazar <br /> <span className="text-xs">Cox’s Bazar international</span></p>
+                                <p className="font-semibold">Cox’s Bazar <br /> <span className="text-xs">Cox’s Bazar </span></p>
                             </div>
                             <div className="text-[#09182E] flex gap-2 items-center border rounded-lg p-2">
                                 <h3 className="font-semibold">03</h3>
@@ -45,9 +45,9 @@ const Banner = () => {
                                 |
                                 <p className="font-semibold">October <br /> <span className="text-xs">tuesday, 2023</span></p>
                             </div>
-                        </div>
-                        <div>
-                            <button className="flex justify-center items-center w-20 h-14 bg-[#FFB700] rounded-lg text-white text-lg ml-2"><FaSearch /></button>
+                            <div>
+                                <button className="flex justify-center items-center w-20 h-14 bg-[#FFB700] rounded-lg text-white text-lg"><FaSearch /></button>
+                            </div>
                         </div>
                     </div>
 
